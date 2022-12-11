@@ -1,0 +1,18 @@
+# bin
+*.exe
+*.app
+worldwide
+worldwide.wasm
+
+# config
+*.sav
+*.ini
+*.toml
+
+public/
+build/
+game/
+dump/
+sav/
+.DS_store
+cpu.pprof

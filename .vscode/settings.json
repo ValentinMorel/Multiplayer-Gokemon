@@ -1,0 +1,16 @@
+{
+    "go.useLanguageServer": true,
+    "[go]": {
+        "editor.formatOnSave": true,
+        "editor.codeActionsOnSave": {
+            "source.organizeImports": true
+        }
+    },
+    "[toml]": {
+        "editor.formatOnSave": true,
+    },
+    "go.autocompleteUnimportedPackages": true,
+    "gopls": {
+        "usePlaceholders": true
+    }
+}
